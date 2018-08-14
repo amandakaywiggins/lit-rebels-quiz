@@ -18,17 +18,17 @@ var questions = [{
   rightA: "Fight Club by Chuck Palahniuk",
   image: "assets/images/chuckmyhoe.jpg"
 }, {
-  question: "Which had author had a file maintained on him for 20 years alleging he was an 'advanced Communist'?",
+  question: "Which had author had a file maintained on him by MI5 for 20 years alleging he was an 'advanced Communist'?",
   answers: ["George Orwell", "Herman Melville", "Joseph Conrad", "Aldous Huxley"],
   rightA: "George Orwell",
   image: "assets/images/georgemyhoe.jpg"
 }, {
-  question: "This feminist authoer famously wrote, 'Thus humanity is male and man defines woman not herself but as relative to him.",
+  question: "This feminist auther famously wrote, 'Thus humanity is male and man defines woman not herself but as relative to him.",
   answers: ["Virginia Woolfe", "Kate Chopin", "Mary Wollstonecraft", "Simone de Beauvoir"],
   rightA: "Simone de Beauvoir",
   image: "assets/images/simonemyhoe.jpg"
 }, {
-  question: "During school which author's independence and frank attitude so offended her principle he refused to call her by name?",
+  question: "During school which author's independence and frank attitude so offended her principal he refused to call her by name?",
   answers: ["Edna St Vincent Millay", "Sylvia Plath", "Margaret Atwood", "Nella Larsen"],
   rightA: "Edna St Vincent Millay",
   image: "assets/images/vincentmyhoe.jpg"
@@ -38,7 +38,7 @@ var questions = [{
   rightA: "Alice Walker",
   image: "assets/images/alicemyhoe.jpg"
 }, {
-  question: "This children's author was an intelligence officer during World War II?",
+  question: "This children's author was an intelligence officer during World War II.",
   answers: ["Shel Silverstein", "Antoine de Saint-Exupery", "Roald Dahl", "C.S. Lewis"],
   rightA: "Roald Dahl",
   image: "assets/images/roaldmyhoe.jpg"
