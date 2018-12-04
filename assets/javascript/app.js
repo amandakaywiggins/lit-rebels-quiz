@@ -18,7 +18,7 @@ var questions = [{
   rightA: "Fight Club by Chuck Palahniuk",
   image: "assets/images/chuckmyhoe.jpg"
 }, {
-  question: "Which had author had a file maintained on him by MI5 for 20 years alleging he was an 'advanced Communist'?",
+  question: "Which author had a file maintained on him by MI5 for 20 years alleging he was an 'advanced Communist'?",
   answers: ["George Orwell", "Herman Melville", "Joseph Conrad", "Aldous Huxley"],
   rightA: "George Orwell",
   image: "assets/images/georgemyhoe.jpg"
