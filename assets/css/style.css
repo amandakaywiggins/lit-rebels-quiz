@@ -1,9 +1,8 @@
 body {
     height: 100%;
     width: 100%;
-    background-image: url(../images/openbook.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #fff4bf;
+    text-align: center;
 }
 
 h1, h2, h3 {
@@ -16,13 +15,17 @@ h1, h2, h3 {
 h1 {
     margin: 10px 0px 20px 0px;
     font-family: 'Gentium Book Basic', serif;
+    font-size: 3em;
+    background-color: rgb(39, 42, 48, 0.7);
+    border-radius: 12px;
+    padding: 10px;
 }
 
 #start, #reset {
-    width: 20%;
-    margin-left: 40%;
-    margin-right: 40%;
+    width: 200px;
+    margin: auto;
     font-size: 40px;
+    padding: 10px;
     font-family: 'Goudy Bookletter 1911', serif;
     background-color: rgb(61, 60, 57);
     color: rgb(216, 216, 214);
@@ -30,20 +33,23 @@ h1 {
 }
 
 #game {
+    background-image: url("../images/openbook.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: rgb(39, 42, 48, 0.7);
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: 50px;
     height: 80%;
-    border-color: rgb(216, 216, 214, 0.5);
-    border-width: 10px;
-    border-style: solid;
     border-radius: 12px;
+    min-height: 90vh;
 }
 
 #quiz-here {
     padding: 30px;
     border-radius: 12px;
+    background-color: rgb(39, 42, 48, 0.7);
+    height: 80vh;
 }
 
 .answer {
@@ -51,6 +57,7 @@ h1 {
     width: 50%;
     height: 20%;
     margin: 10px auto;
+    padding: 5px;
     font-size: 40px;
     font-family: 'Goudy Bookletter 1911', serif;
     background-color: rgb(61, 60, 57);
@@ -63,7 +70,8 @@ img {
     display: block;
     margin: auto;
     width: auto;
-    height: 400px;
+    max-width: 500px;
+    height: auto;
     align-content: center;
     border-width: 5px;
     border-style: solid;
